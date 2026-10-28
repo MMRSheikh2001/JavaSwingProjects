@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/StockTradingPlatform.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/views/user/SellHoldingView.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/db/HoldingDao.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/views/UserDashboard.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/views/admin/UserView.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/db/TransactionDao.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/views/user/HoldingViewUser.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/views/user/BuyStockView.java</file>
+            <file>file:/F:/Documents/GitHub/CodeAlpha_Stock_Trading_Platform/StockTradingPlatform/src/stocktradingplatform/db/DataBase.java</file>
+        </group>
+    </open-files>
+</project-private>
